@@ -42,3 +42,5 @@ function lonelyinteger(a) {
     return counts.indexOf(1);
 
 }
+
+console.log('hello world')
